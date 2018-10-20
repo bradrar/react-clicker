@@ -1,0 +1,17 @@
+.container {
+  margin: 0 auto;
+  width: 550px; 
+}
+
+.counter {
+  font-size:  150px;
+}
+
+.plus, .reset, .minus {
+  padding: 70px;
+}
+
+button {
+  padding: 0;
+  border: 1px solid black;
+}
